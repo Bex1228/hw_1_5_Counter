@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hw_1_5_Counter</string>
+    <string name="toast">Поздравляем!</string>
+</resources>
